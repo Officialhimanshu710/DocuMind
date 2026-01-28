@@ -1,4 +1,4 @@
-# 🤖 RAG Chat Bot
+# 🤖 Document Reader RAG Chat Bot
 
 A lightweight, high-speed **Retrieval-Augmented Generation (RAG)** application built to chat with multiple **PDFs** and **CSV** files simultaneously.
 
