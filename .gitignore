@@ -1,0 +1,14 @@
+# Ignore the virtual environment (Heavy folder)
+venv/
+.venv/
+
+# Ignore secrets (Security risk!)
+.env
+
+# Ignore Python cache files (Junk)
+__pycache__/
+*.pyc
+
+# Ignore IDE settings
+.idea/
+.vscode/
